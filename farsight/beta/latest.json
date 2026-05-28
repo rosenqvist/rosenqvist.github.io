@@ -1,8 +1,8 @@
 {
-    "version":  "2.1.13",
-    "display_name":  "Farsight 2.0 beta",
-    "url":  "https://rosenqvist.github.io/farsight/v2.1.13/Farsight.exe",
-    "sha256":  "636f7f43435f2556139f4c6e2c7085d0d6e9a97c8dfe1fc5edfceeca827ee4f4",
-    "notes":  "Adds clearer player-guard visibility diagnostics for nearby attack slots and fails closed when loaded client entities cannot prove a mob is safe.",
-    "notes_url":  ""
+  "version": "2.1.14",
+  "display_name": "Farsight 2.0 beta",
+  "url": "https://rosenqvist.github.io/farsight/v2.1.14/Farsight.exe",
+  "sha256": "ad8f0eab168db0516ddba850f8de967e9c8173c766a0cee1f3a65fd7b692c599",
+  "notes": "Adds requested player-visibility capture for nearby attack-slot guard checks so mobs near other known players are rejected more reliably.",
+  "notes_url": ""
 }
