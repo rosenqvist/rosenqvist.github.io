@@ -1,7 +1,8 @@
 ﻿{
-    "version":  "2.1.1",
-    "url":  "https://raw.githubusercontent.com/rosenqvist/rosenqvist.github.io/main/farsight/v2.1.1/Farsight.exe",
-    "sha256":  "ad971911079b466a18d7f09cd39de7dc7ed6cc2c48a1f1375ab28265b5796e02",
-    "notes":  "Adds startup update prompt and latest launcher fixes.",
+    "version":  "2.1.2",
+    "display_name":  "Farsight 2.0 beta",
+    "url":  "https://raw.githubusercontent.com/rosenqvist/rosenqvist.github.io/main/farsight/v2.1.2/Farsight.exe",
+    "sha256":  "9e9a27d6c65676847f42d74687dbec429d59ae7050eef7cef35a0831a524be52",
+    "notes":  "Farsight 2.0 beta.",
     "notes_url":  ""
 }
