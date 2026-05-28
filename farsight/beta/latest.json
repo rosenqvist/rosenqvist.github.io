@@ -1,8 +1,8 @@
 {
-  "version": "2.1.6",
+  "version": "2.1.7",
   "display_name": "Farsight 2.0 beta",
-  "url": "https://rosenqvist.github.io/farsight/v2.1.6/Farsight.exe",
-  "sha256": "ff08b8770e36354c6bf1c4bf9c18c3fd4300da640997581c4d8e7da35b5ab9c4",
-  "notes": "Attack slots now expand only monster targets; updater channel moved to GitHub Pages for fresh beta manifests.",
+  "url": "https://rosenqvist.github.io/farsight/v2.1.7/Farsight.exe",
+  "sha256": "7d8d8ac212b72437a5ae4f15bfe35b12535967aa3712571473a689220c3f3233",
+  "notes": "Attack slots now expand only monster targets; update checks now bypass stale manifest caches.",
   "notes_url": ""
 }
