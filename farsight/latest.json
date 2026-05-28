@@ -1,8 +1,8 @@
 {
-  "version": "2.1.11",
+  "version": "2.1.12",
   "display_name": "Farsight 2.0 beta",
-  "url": "https://rosenqvist.github.io/farsight/v2.1.11/Farsight.exe",
-  "sha256": "5203e65470e772d744b6e0132cde8553c77c5475f4a9c82be7440077a506a330",
-  "notes": "Nearby attack-slot mode now rewrites or drops unsafe original targets so mobs near guarded players are not attacked.",
+  "url": "https://rosenqvist.github.io/farsight/v2.1.12/Farsight.exe",
+  "sha256": "c91cfa4b791de2c361c0e467c976ae568e0c6a425d3b8d471060df8d7f565724",
+  "notes": "Attack-slot player guard now fails closed when nearby mode cannot prove visibility, with debug/overlay diagnostics for visible players, safe targets, and blind rejects.",
   "notes_url": ""
 }
