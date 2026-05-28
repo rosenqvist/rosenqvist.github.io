@@ -1,8 +1,8 @@
 {
-  "version": "2.1.7",
+  "version": "2.1.8",
   "display_name": "Farsight 2.0 beta",
-  "url": "https://rosenqvist.github.io/farsight/v2.1.7/Farsight.exe",
-  "sha256": "7d8d8ac212b72437a5ae4f15bfe35b12535967aa3712571473a689220c3f3233",
-  "notes": "Attack slots now expand only monster targets; update checks now bypass stale manifest caches.",
+  "url": "https://rosenqvist.github.io/farsight/v2.1.8/Farsight.exe",
+  "sha256": "d3cc61888d59e9aa4ad575a96fb2e70933cecab514384c17fa7c63c9acdb4aea",
+  "notes": "Attack range bonus now applies to spell ranges too. Update checks now fall back to fresh manifests when old CDN URLs are stale.",
   "notes_url": ""
 }
