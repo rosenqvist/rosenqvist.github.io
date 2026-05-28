@@ -1,8 +1,8 @@
 {
-  "version": "2.1.8",
+  "version": "2.1.9",
   "display_name": "Farsight 2.0 beta",
-  "url": "https://rosenqvist.github.io/farsight/v2.1.8/Farsight.exe",
-  "sha256": "d3cc61888d59e9aa4ad575a96fb2e70933cecab514384c17fa7c63c9acdb4aea",
-  "notes": "Attack range bonus now applies to spell ranges too. Update checks now fall back to fresh manifests when old CDN URLs are stale.",
+  "url": "https://rosenqvist.github.io/farsight/v2.1.9/Farsight.exe",
+  "sha256": "f4f97b3d9eab0c988e3ed8c6c0b978c186edfbfd093581e07accfeb4f0a5d9fc",
+  "notes": "Nearby attack-slot mode now refuses to expand unsafe current targets, so mobs excluded by player guard are not duplicated into damage slots.",
   "notes_url": ""
 }
