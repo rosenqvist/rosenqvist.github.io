@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "2.1.2",
+    "version":  "2.1.3",
     "display_name":  "Farsight 2.0 beta",
-    "url":  "https://raw.githubusercontent.com/rosenqvist/rosenqvist.github.io/main/farsight/v2.1.2/Farsight.exe",
-    "sha256":  "9e9a27d6c65676847f42d74687dbec429d59ae7050eef7cef35a0831a524be52",
+    "url":  "https://raw.githubusercontent.com/rosenqvist/rosenqvist.github.io/main/farsight/v2.1.3/Farsight.exe",
+    "sha256":  "b234e56cfee2536bdb43b7cfdb0e99ce949db40a156491c5059634fb16868bb8",
     "notes":  "Farsight 2.0 beta.",
     "notes_url":  ""
 }
