@@ -1,8 +1,8 @@
 {
-  "version": "2.1.10",
+  "version": "2.1.11",
   "display_name": "Farsight 2.0 beta",
-  "url": "https://rosenqvist.github.io/farsight/v2.1.10/Farsight.exe",
-  "sha256": "8294f215b0cef2cedf4b1580daecf2e77188f6691077920fd40078258e856b77",
-  "notes": "Nearby attack-slot guard now uses WYD game-distance checks when filtering mobs around guarded players.",
+  "url": "https://rosenqvist.github.io/farsight/v2.1.11/Farsight.exe",
+  "sha256": "5203e65470e772d744b6e0132cde8553c77c5475f4a9c82be7440077a506a330",
+  "notes": "Nearby attack-slot mode now rewrites or drops unsafe original targets so mobs near guarded players are not attacked.",
   "notes_url": ""
 }
