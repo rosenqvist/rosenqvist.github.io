@@ -1,8 +1,8 @@
 {
-  "version": "2.1.14",
+  "version": "2.1.15",
   "display_name": "Farsight 2.0 beta",
-  "url": "https://rosenqvist.github.io/farsight/v2.1.14/Farsight.exe",
-  "sha256": "ad8f0eab168db0516ddba850f8de967e9c8173c766a0cee1f3a65fd7b692c599",
-  "notes": "Adds requested player-visibility capture for nearby attack-slot guard checks so mobs near other known players are rejected more reliably.",
+  "url": "https://rosenqvist.github.io/farsight/v2.1.15/Farsight.exe",
+  "sha256": "22813dfe5b31db9c3b0ad24373ff4992e3dab05f6f06d99eafdf264a03900dd1",
+  "notes": "Improves player visibility capture and nearby attack-slot guard behavior with action-packet position refresh, stricter fail-closed handling, and extra debug counters.",
   "notes_url": ""
 }
