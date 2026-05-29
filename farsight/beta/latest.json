@@ -1,8 +1,8 @@
 {
-  "version": "2.1.18",
+  "version": "2.1.20",
   "display_name": "Farsight 2.0 beta",
-  "url": "https://rosenqvist.github.io/farsight/v2.1.18/Farsight.exe",
-  "sha256": "e8b69097b9fd307f432df29780dafa4ddae9ef7a7899aba0b6f7e2a854b37ea0",
-  "notes": "Adds experimental low-HP finisher attack-slot mode with configurable HP threshold, send delay, guard filtering, and debug diagnostics.",
+  "url": "https://rosenqvist.github.io/farsight/v2.1.20/Farsight.exe",
+  "sha256": "b6c4e3751f4871becada9fba56e0197129a783e288165c3b09c18b61cc182738",
+  "notes": "Removes experimental attack modes, strict visibility guard, and Debug tab; keeps duplicate and closest-target attack slots.",
   "notes_url": ""
 }
