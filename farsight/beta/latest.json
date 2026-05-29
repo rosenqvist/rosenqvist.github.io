@@ -1,8 +1,8 @@
 {
-  "version": "2.1.17",
+  "version": "2.1.18",
   "display_name": "Farsight 2.0 beta",
-  "url": "https://rosenqvist.github.io/farsight/v2.1.17/Farsight.exe",
-  "sha256": "53fb1ac3de48ebd4b37be4b8f4a7bb67b3492e2e09f83cdc5b88a95032df0511",
-  "notes": "Tightens nearby attack-slot targeting further while keeping the current guard and auto-combine fixes in the beta build.",
+  "url": "https://rosenqvist.github.io/farsight/v2.1.18/Farsight.exe",
+  "sha256": "e8b69097b9fd307f432df29780dafa4ddae9ef7a7899aba0b6f7e2a854b37ea0",
+  "notes": "Adds experimental low-HP finisher attack-slot mode with configurable HP threshold, send delay, guard filtering, and debug diagnostics.",
   "notes_url": ""
 }
