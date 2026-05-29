@@ -1,8 +1,8 @@
 {
-  "version": "2.1.16",
+  "version": "2.1.17",
   "display_name": "Farsight 2.0 beta",
-  "url": "https://rosenqvist.github.io/farsight/v2.1.16/Farsight.exe",
-  "sha256": "2ac322d923b3ac7dc2309b440452996d15ffa2e5ce58566d11f07e28c6818923",
-  "notes": "Tightens strict nearby and closest-target selection, keeps attack slots usable under limited visibility, disables the unstable visibility capture hook, and adds more Mystic stackable auto-combine items.",
+  "url": "https://rosenqvist.github.io/farsight/v2.1.17/Farsight.exe",
+  "sha256": "53fb1ac3de48ebd4b37be4b8f4a7bb67b3492e2e09f83cdc5b88a95032df0511",
+  "notes": "Tightens nearby attack-slot targeting further while keeping the current guard and auto-combine fixes in the beta build.",
   "notes_url": ""
 }
