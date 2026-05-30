@@ -1,8 +1,8 @@
 {
-  "version": "2.1.20",
+  "version": "2.1.21",
   "display_name": "Farsight 2.0 beta",
-  "url": "https://rosenqvist.github.io/farsight/v2.1.20/Farsight.exe",
-  "sha256": "fb3b0590ef9167ff922ce4768a9756c8780baf724caaf7586e54917ac639c501",
-  "notes": "Removes experimental attack modes, strict visibility guard, and Debug tab; keeps duplicate and closest-target attack slots.",
+  "url": "https://rosenqvist.github.io/farsight/v2.1.21/Farsight.exe",
+  "sha256": "3fdb9eb32adc103fa78c161d4bdea6c7c2bb2064285ba718637b949c48e07da2",
+  "notes": "Removes closest-target attack slots; attack slots now only duplicate the current physical attack target.",
   "notes_url": ""
 }
