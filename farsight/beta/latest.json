@@ -1,10 +1,10 @@
 {
-  "version": "2.1.22",
+  "version": "2.1.23",
   "display_name": "Farsight 2.0 beta",
-  "url": "https://rosenqvist.github.io/farsight/v2.1.22/Farsight.exe",
-  "sha256": "a9ac5ef642c7aaa1f4d2e3100db6a293cb45562d9c9e45d68ef482986dbe1ba8",
-  "overlay_url": "https://rosenqvist.github.io/farsight/v2.1.22/FarsightWydOverlay32.dll",
-  "overlay_sha256": "7bf11a3923b5900e663d3ae960a22e0e9eff4775b6ccf331faf37c1a22f98ba6",
-  "notes": "Chat text scaling and compositor recipe capture.",
+  "url": "https://rosenqvist.github.io/farsight/v2.1.23/Farsight.exe",
+  "sha256": "b1a54fae7a047793194d68d1bf27d8bca5022c9190f6e8b84978bd65df9ad659",
+  "overlay_url": "https://rosenqvist.github.io/farsight/v2.1.23/FarsightWydOverlay32.dll",
+  "overlay_sha256": "bd5ed790d6e989aa4590e7831474a17f3d1fa9a6a37e5b5f1857cba3838df4b5",
+  "notes": "Chat input history and party member Summon/Kick controls.",
   "notes_url": ""
 }

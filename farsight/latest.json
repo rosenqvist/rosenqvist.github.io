@@ -1,8 +1,10 @@
 {
-  "version": "2.1.21",
+  "version": "2.1.23",
   "display_name": "Farsight 2.0 beta",
-  "url": "https://rosenqvist.github.io/farsight/v2.1.21/Farsight.exe",
-  "sha256": "3fdb9eb32adc103fa78c161d4bdea6c7c2bb2064285ba718637b949c48e07da2",
-  "notes": "Removes closest-target attack slots; attack slots now only duplicate the current physical attack target.",
+  "url": "https://rosenqvist.github.io/farsight/v2.1.23/Farsight.exe",
+  "sha256": "b1a54fae7a047793194d68d1bf27d8bca5022c9190f6e8b84978bd65df9ad659",
+  "overlay_url": "https://rosenqvist.github.io/farsight/v2.1.23/FarsightWydOverlay32.dll",
+  "overlay_sha256": "bd5ed790d6e989aa4590e7831474a17f3d1fa9a6a37e5b5f1857cba3838df4b5",
+  "notes": "Chat input history and party member Summon/Kick controls.",
   "notes_url": ""
 }
