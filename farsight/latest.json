@@ -1,10 +1,10 @@
 {
-  "version": "2.1.26",
-  "display_name": "Farsight 2.1.26",
-  "url": "https://rosenqvist.github.io/farsight/v2.1.26/Farsight.exe",
-  "sha256": "2c1425cb862a1439573987f1b47cd76f1cbd409bb18f40385e0d423f0f96e060",
-  "overlay_url": "https://rosenqvist.github.io/farsight/v2.1.26/FarsightWydOverlay32.dll",
-  "overlay_sha256": "ed4be3a2a1b90234e4879f48d3e538691544e4c887a763b9eb48b2df7f063156",
-  "notes": "Farsight patch\n\n- Version 2.1.26.\n- Fixed Auto-Detoxify availability for live clients by detecting Detoxify from SkillData.bin and the learned-skill bit instead of relying on the recovered-source class gate.\n- Hardened Detoxify skill-data parsing for current and headered client data files.",
+  "version": "2.1.27",
+  "display_name": "Farsight 2.1.27",
+  "url": "https://rosenqvist.github.io/farsight/v2.1.27/Farsight.exe",
+  "sha256": "98888c8bab4ff3c1909feba1ca1c0d15ed2840357a2f415e6046bedd22c088dd",
+  "overlay_url": "https://rosenqvist.github.io/farsight/v2.1.27/FarsightWydOverlay32.dll",
+  "overlay_sha256": "6706c265f67406863f21adcba92daff3d067d5ee5c67fe4ddcc732408f705da0",
+  "notes": "Farsight patch\n\n- Version 2.1.27.\n- Added a chat collapse control and persisted chat auto-scroll.\n- Moved FPS and ping into the in-game top-right overlay.\n- Hardened Auto-Soul and Auto-Detoxify packet scheduling to avoid overlapping other client actions.\n- Fixed auto-combine so fresh singles can start a new stack after a matching stack reaches 120.",
   "notes_url": ""
 }
