@@ -1,10 +1,10 @@
 {
-  "version": "2.1.25",
-  "display_name": "Farsight 2.1.25",
-  "url": "https://rosenqvist.github.io/farsight/v2.1.25/Farsight.exe",
-  "sha256": "d94bf65b42cb595df9712e5bb36852a445c288e98a5a0db818844144f56586ca",
-  "overlay_url": "https://rosenqvist.github.io/farsight/v2.1.25/FarsightWydOverlay32.dll",
-  "overlay_sha256": "863b2f4571ddd27e4a224f163a9fe763ded18e7440d23a5de050b16e8866ee1e",
-  "notes": "Farsight patch\n\n- Version 2.1.25.\n- Added chat font size scaling to the in-game chat cogwheel popup.\n- Added a one-command update publishing script for future releases.",
+  "version": "2.1.26",
+  "display_name": "Farsight 2.1.26",
+  "url": "https://rosenqvist.github.io/farsight/v2.1.26/Farsight.exe",
+  "sha256": "2c1425cb862a1439573987f1b47cd76f1cbd409bb18f40385e0d423f0f96e060",
+  "overlay_url": "https://rosenqvist.github.io/farsight/v2.1.26/FarsightWydOverlay32.dll",
+  "overlay_sha256": "ed4be3a2a1b90234e4879f48d3e538691544e4c887a763b9eb48b2df7f063156",
+  "notes": "Farsight patch\n\n- Version 2.1.26.\n- Fixed Auto-Detoxify availability for live clients by detecting Detoxify from SkillData.bin and the learned-skill bit instead of relying on the recovered-source class gate.\n- Hardened Detoxify skill-data parsing for current and headered client data files.",
   "notes_url": ""
 }
