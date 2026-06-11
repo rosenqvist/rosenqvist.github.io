@@ -1,10 +1,10 @@
 {
-  "version": "2.1.23",
-  "display_name": "Farsight 2.0 beta",
-  "url": "https://rosenqvist.github.io/farsight/v2.1.23/Farsight.exe",
-  "sha256": "b1a54fae7a047793194d68d1bf27d8bca5022c9190f6e8b84978bd65df9ad659",
-  "overlay_url": "https://rosenqvist.github.io/farsight/v2.1.23/FarsightWydOverlay32.dll",
-  "overlay_sha256": "bd5ed790d6e989aa4590e7831474a17f3d1fa9a6a37e5b5f1857cba3838df4b5",
-  "notes": "Chat input history and party member Summon/Kick controls.",
+  "version": "2.1.24",
+  "display_name": "Farsight 2.1.24",
+  "url": "https://rosenqvist.github.io/farsight/v2.1.24/Farsight.exe",
+  "sha256": "77727af3bfbfe4f49c94d9ddedb12a6d010c99b55236f1baaf5b2ac5de4a4f82",
+  "overlay_url": "https://rosenqvist.github.io/farsight/v2.1.24/FarsightWydOverlay32.dll",
+  "overlay_sha256": "8e87510efaef2e84e4ae9a65b67216986ed23e3ba012d91436d86b7108f75fb9",
+  "notes": "Farsight patch\n\n- Version 2.1.24.\n- Added Auto-Detoxify for characters that have Detoxify learned.\n- Reordered the in-game top-right controls so Soul and Auto-Detoxify sit before Zoom.\n- Cleaned up unused overlay shared state.",
   "notes_url": ""
 }
