@@ -1,10 +1,10 @@
 {
-  "version": "2.1.24",
-  "display_name": "Farsight 2.1.24",
-  "url": "https://rosenqvist.github.io/farsight/v2.1.24/Farsight.exe",
-  "sha256": "77727af3bfbfe4f49c94d9ddedb12a6d010c99b55236f1baaf5b2ac5de4a4f82",
-  "overlay_url": "https://rosenqvist.github.io/farsight/v2.1.24/FarsightWydOverlay32.dll",
-  "overlay_sha256": "8e87510efaef2e84e4ae9a65b67216986ed23e3ba012d91436d86b7108f75fb9",
-  "notes": "Farsight patch\n\n- Version 2.1.24.\n- Added Auto-Detoxify for characters that have Detoxify learned.\n- Reordered the in-game top-right controls so Soul and Auto-Detoxify sit before Zoom.\n- Cleaned up unused overlay shared state.",
+  "version": "2.1.25",
+  "display_name": "Farsight 2.1.25",
+  "url": "https://rosenqvist.github.io/farsight/v2.1.25/Farsight.exe",
+  "sha256": "d94bf65b42cb595df9712e5bb36852a445c288e98a5a0db818844144f56586ca",
+  "overlay_url": "https://rosenqvist.github.io/farsight/v2.1.25/FarsightWydOverlay32.dll",
+  "overlay_sha256": "863b2f4571ddd27e4a224f163a9fe763ded18e7440d23a5de050b16e8866ee1e",
+  "notes": "Farsight patch\n\n- Version 2.1.25.\n- Added chat font size scaling to the in-game chat cogwheel popup.\n- Added a one-command update publishing script for future releases.",
   "notes_url": ""
 }
