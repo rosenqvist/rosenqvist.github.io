@@ -1,10 +1,10 @@
 {
-  "version": "2.1.28",
-  "display_name": "Farsight 2.1.28",
-  "url": "https://rosenqvist.github.io/farsight/v2.1.28/Farsight.exe",
-  "sha256": "3c24eb9afc83c398558d11abbc1314c71b7779c53360cd8d7f81267096156ce8",
-  "overlay_url": "https://rosenqvist.github.io/farsight/v2.1.28/FarsightWydOverlay32.dll",
-  "overlay_sha256": "c32729473bae0f0c7fc130253bf8e8d4fe876e12d230b16454a8a0ad58a64720",
-  "notes": "Farsight patch\n\n- Version 2.1.28.\n- Added chat channel tabs for All, Party, Guild, and named private-message conversations.\n- Added close buttons for private-message tabs and prevented slash commands from creating fake PM tabs.\n- Moved FPS and ping back to the bottom-left as one stacked in-game box.\n- Added an optional setting to focus a character client when clicking its Farsight character card.",
+  "version": "2.1.29",
+  "display_name": "Farsight 2.1.29",
+  "url": "https://rosenqvist.github.io/farsight/v2.1.29/Farsight.exe",
+  "sha256": "42f162c944d0b341ca8586caa7acec64f04801ded45c65fa516cb94ae0d6106b",
+  "overlay_url": "https://rosenqvist.github.io/farsight/v2.1.29/FarsightWydOverlay32.dll",
+  "overlay_sha256": "6a8160032e7fabb52d52e1d7a8fb4221d99c66a41485c24c88b264b79bf9c500",
+  "notes": "Farsight patch\n\n- Version 2.1.29.\n- Added chat channel tabs for All, Party, Guild, and named private-message conversations.\n- Added close buttons for private-message tabs and prevented slash commands from creating fake PM tabs.\n- Moved FPS and ping back to the bottom-left as one stacked in-game box.\n- Added an optional setting to focus a character client when clicking its Farsight character card.\n- Improved character-card click focusing so the full card focuses the client except when clicking card buttons.\n- Cleaned up character card and in-game chat state handling.",
   "notes_url": ""
 }
