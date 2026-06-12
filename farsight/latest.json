@@ -1,10 +1,10 @@
 {
-  "version": "2.1.30",
-  "display_name": "Farsight 2.1.30",
-  "url": "https://rosenqvist.github.io/farsight/v2.1.30/Farsight.exe",
-  "sha256": "8d9ff76f74f2cf699f738dacfb30e0671ebcae1f19873e117ebd380ca2e206dd",
-  "overlay_url": "https://rosenqvist.github.io/farsight/v2.1.30/FarsightWydOverlay32.dll",
-  "overlay_sha256": "a32d82d650f9f1066d28052a24073c895d6f2ee3cff738627bd9df281b09d027",
-  "notes": "Farsight patch\n\n- Version 2.1.30.\n- Fixed Auto-Soul startup and refresh so it casts independently, verifies the affect, and refreshes before expiry.\n- Added Clue Fragment to Auto-Combine stackable items.\n- Hardened Auto-Combine against repeated rejected stack attempts.\n- Improved chat PM tabs, unread highlighting, and middle-click tab closing.\n- Improved character-card click focusing so the full card focuses the client except when clicking card buttons.\n- Cleaned up overlay and automation state handling.",
+  "version": "2.1.31",
+  "display_name": "Farsight 2.1.31",
+  "url": "https://rosenqvist.github.io/farsight/v2.1.31/Farsight.exe",
+  "sha256": "81d365cc5b29dc5f9f64f7e811c909b05be7e5da91d20a0e4bfc470a24b01f7b",
+  "overlay_url": "https://rosenqvist.github.io/farsight/v2.1.31/FarsightWydOverlay32.dll",
+  "overlay_sha256": "c8d0eb887cc7686fafe2b76f7ce2ec0f76d30a35e858b428006b47569fc13390",
+  "notes": "Farsight patch\n\n- Version 2.1.31.\n- Added SpecForce controls to the in-game overlay with a +1 through +5 range setting.\n- Added an in-game range circle while SpecForce is enabled.\n- Applied SpecForce through native client range checks and restored original bytes when disabled.\n- Cleaned up overlay range projection so it uses the client render matrices.",
   "notes_url": ""
 }
