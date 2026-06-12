@@ -1,10 +1,10 @@
 {
-  "version": "2.1.29",
-  "display_name": "Farsight 2.1.29",
-  "url": "https://rosenqvist.github.io/farsight/v2.1.29/Farsight.exe",
-  "sha256": "42f162c944d0b341ca8586caa7acec64f04801ded45c65fa516cb94ae0d6106b",
-  "overlay_url": "https://rosenqvist.github.io/farsight/v2.1.29/FarsightWydOverlay32.dll",
-  "overlay_sha256": "6a8160032e7fabb52d52e1d7a8fb4221d99c66a41485c24c88b264b79bf9c500",
-  "notes": "Farsight patch\n\n- Version 2.1.29.\n- Added chat channel tabs for All, Party, Guild, and named private-message conversations.\n- Added close buttons for private-message tabs and prevented slash commands from creating fake PM tabs.\n- Moved FPS and ping back to the bottom-left as one stacked in-game box.\n- Added an optional setting to focus a character client when clicking its Farsight character card.\n- Improved character-card click focusing so the full card focuses the client except when clicking card buttons.\n- Cleaned up character card and in-game chat state handling.",
+  "version": "2.1.30",
+  "display_name": "Farsight 2.1.30",
+  "url": "https://rosenqvist.github.io/farsight/v2.1.30/Farsight.exe",
+  "sha256": "8d9ff76f74f2cf699f738dacfb30e0671ebcae1f19873e117ebd380ca2e206dd",
+  "overlay_url": "https://rosenqvist.github.io/farsight/v2.1.30/FarsightWydOverlay32.dll",
+  "overlay_sha256": "a32d82d650f9f1066d28052a24073c895d6f2ee3cff738627bd9df281b09d027",
+  "notes": "Farsight patch\n\n- Version 2.1.30.\n- Fixed Auto-Soul startup and refresh so it casts independently, verifies the affect, and refreshes before expiry.\n- Added Clue Fragment to Auto-Combine stackable items.\n- Hardened Auto-Combine against repeated rejected stack attempts.\n- Improved chat PM tabs, unread highlighting, and middle-click tab closing.\n- Improved character-card click focusing so the full card focuses the client except when clicking card buttons.\n- Cleaned up overlay and automation state handling.",
   "notes_url": ""
 }
