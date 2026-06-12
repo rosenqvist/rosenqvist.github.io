@@ -1,10 +1,10 @@
 {
-  "version": "2.1.32",
-  "display_name": "Farsight 2.1.32",
-  "url": "https://rosenqvist.github.io/farsight/v2.1.32/Farsight.exe",
-  "sha256": "608f3488aaf163b8a978405a8352eabcc30f4497c35492f5cc3ad8a375d7a208",
-  "overlay_url": "https://rosenqvist.github.io/farsight/v2.1.32/FarsightWydOverlay32.dll",
-  "overlay_sha256": "c8d0eb887cc7686fafe2b76f7ce2ec0f76d30a35e858b428006b47569fc13390",
-  "notes": "Farsight patch\n\n- Version 2.1.32.\n- Published the current stable overlay and launcher build through the updater.\n- Includes the latest auto-combine stackable item list, including Clue Fragment.\n- Keeps the current Auto-Soul, chat, party, teleport, and SpecForce overlay behavior.",
+  "version": "2.1.33",
+  "display_name": "Farsight 2.1.33",
+  "url": "https://rosenqvist.github.io/farsight/v2.1.33/Farsight.exe",
+  "sha256": "933dc9aa6010697e0bf1ffa5f70ef502e58f189f85f8da1860fa31d776338972",
+  "overlay_url": "https://rosenqvist.github.io/farsight/v2.1.33/FarsightWydOverlay32.dll",
+  "overlay_sha256": "639ab072a3d2d23a658998657ee6402da8cbea17e3261bc9af823c9cd2f4cab1",
+  "notes": "Farsight patch\n\n- Version 2.1.33.\n- Published the current stable overlay and launcher build through the updater.\n- Raises SpecForce adjustment up to +8.\n- Keeps SpecForce guarded consistently by player guard.\n- Smooths the in-game range outline while moving.",
   "notes_url": ""
 }
