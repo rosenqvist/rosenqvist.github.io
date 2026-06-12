@@ -1,10 +1,10 @@
 {
-  "version": "2.1.31",
-  "display_name": "Farsight 2.1.31",
-  "url": "https://rosenqvist.github.io/farsight/v2.1.31/Farsight.exe",
-  "sha256": "81d365cc5b29dc5f9f64f7e811c909b05be7e5da91d20a0e4bfc470a24b01f7b",
-  "overlay_url": "https://rosenqvist.github.io/farsight/v2.1.31/FarsightWydOverlay32.dll",
+  "version": "2.1.32",
+  "display_name": "Farsight 2.1.32",
+  "url": "https://rosenqvist.github.io/farsight/v2.1.32/Farsight.exe",
+  "sha256": "608f3488aaf163b8a978405a8352eabcc30f4497c35492f5cc3ad8a375d7a208",
+  "overlay_url": "https://rosenqvist.github.io/farsight/v2.1.32/FarsightWydOverlay32.dll",
   "overlay_sha256": "c8d0eb887cc7686fafe2b76f7ce2ec0f76d30a35e858b428006b47569fc13390",
-  "notes": "Farsight patch\n\n- Version 2.1.31.\n- Added SpecForce controls to the in-game overlay with a +1 through +5 range setting.\n- Added an in-game range circle while SpecForce is enabled.\n- Applied SpecForce through native client range checks and restored original bytes when disabled.\n- Cleaned up overlay range projection so it uses the client render matrices.",
+  "notes": "Farsight patch\n\n- Version 2.1.32.\n- Published the current stable overlay and launcher build through the updater.\n- Includes the latest auto-combine stackable item list, including Clue Fragment.\n- Keeps the current Auto-Soul, chat, party, teleport, and SpecForce overlay behavior.",
   "notes_url": ""
 }
