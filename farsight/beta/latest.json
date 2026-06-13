@@ -1,10 +1,10 @@
 {
-  "version": "2.1.33",
-  "display_name": "Farsight 2.1.33",
-  "url": "https://rosenqvist.github.io/farsight/v2.1.33/Farsight.exe",
-  "sha256": "933dc9aa6010697e0bf1ffa5f70ef502e58f189f85f8da1860fa31d776338972",
-  "overlay_url": "https://rosenqvist.github.io/farsight/v2.1.33/FarsightWydOverlay32.dll",
+  "version": "2.1.34",
+  "display_name": "Farsight 2.1.34",
+  "url": "https://rosenqvist.github.io/farsight/v2.1.34/Farsight.exe",
+  "sha256": "722ec1cf7d5edc77fdf75576fc68f201be60cbd9e8d5f7d35b4900c3f290a788",
+  "overlay_url": "https://rosenqvist.github.io/farsight/v2.1.34/FarsightWydOverlay32.dll",
   "overlay_sha256": "639ab072a3d2d23a658998657ee6402da8cbea17e3261bc9af823c9cd2f4cab1",
-  "notes": "Farsight patch\n\n- Version 2.1.33.\n- Published the current stable overlay and launcher build through the updater.\n- Raises SpecForce adjustment up to +8.\n- Keeps SpecForce guarded consistently by player guard.\n- Smooths the in-game range outline while moving.",
+  "notes": "Farsight patch\n\n- Version 2.1.34.\n- Fixes attack-slot packet promotion so x1/x2/x3/x4 fills promoted multi-attack packets from the first valid monster hit.\n- Handles physical and skill attack damage entries consistently while ignoring player/self targets.\n- Cleans stale update, scanner, and MAC-preview code paths.",
   "notes_url": ""
 }
