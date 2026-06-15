@@ -1,10 +1,10 @@
 {
-  "version": "2.1.35",
-  "display_name": "Farsight 2.1.35",
-  "url": "https://rosenqvist.github.io/farsight/v2.1.35/Farsight.exe",
-  "sha256": "c2bab2fbff011de555bf682e714680438b8af7107549fa767fb784204a1e9641",
-  "overlay_url": "https://rosenqvist.github.io/farsight/v2.1.35/FarsightWydOverlay32.dll",
-  "overlay_sha256": "ab4989c038b2b9857f96206fba3d0de49d856be5d18821087badea59073094f3",
-  "notes": "Farsight patch\n\n- Version 2.1.35.\n- Adds character categories with built-in All, Online, and Offline filters plus custom assignment from character cards.\n- Improves Auto-Soul availability and login startup timing behavior.\n- Updates default login delays and guard range.",
+  "version": "2.1.36",
+  "display_name": "Farsight 2.1.36",
+  "url": "https://rosenqvist.github.io/farsight/v2.1.36/Farsight.exe",
+  "sha256": "87b76a93aa52349ff1218efadc9df37b1a8cdda82e53c67b6fb79443b01f8fd0",
+  "overlay_url": "https://rosenqvist.github.io/farsight/v2.1.36/FarsightWydOverlay32.dll",
+  "overlay_sha256": "b4864254bc2d1be3036fa5178df63b8e90eb43dc14fb16eeaff2b6119c874e4f",
+  "notes": "Farsight patch\n\n- Version 2.1.36.\n- Restores the minimized in-game chat when Enter is pressed.\n- Keeps Enter available for native in-game modal and context windows.",
   "notes_url": ""
 }
