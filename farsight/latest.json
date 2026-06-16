@@ -1,10 +1,10 @@
 {
-  "version": "2.1.37",
-  "display_name": "Farsight 2.1.37",
-  "url": "https://rosenqvist.github.io/farsight/v2.1.37/Farsight.exe",
-  "sha256": "752f5baebca8dfdde7a0f3ee55040ed42dbc9f684510acd42c00d38de84e7b59",
-  "overlay_url": "https://rosenqvist.github.io/farsight/v2.1.37/FarsightWydOverlay32.dll",
-  "overlay_sha256": "4ffdfa1aa81532c9f9d8e6a4c74fb4fb079878bb86c714f17b86049912c284cc",
-  "notes": "Farsight patch\n\n- Version 2.1.37.\n- Restores the minimized in-game chat when Enter is pressed.\n- Keeps Enter available for native in-game modal and context windows.",
+  "version": "2.1.38",
+  "display_name": "Farsight 2.1.38",
+  "url": "https://rosenqvist.github.io/farsight/v2.1.38/Farsight.exe",
+  "sha256": "9b8e0afe24b1df9fe11e86bec087b6fde327a0b2962e6a38e7f0903bc8584858",
+  "overlay_url": "https://rosenqvist.github.io/farsight/v2.1.38/FarsightWydOverlay32.dll",
+  "overlay_sha256": "9faa334bdfe4685a86ed4f4b776b26a00545bbc3cf1001fab76ea81adffb605e",
+  "notes": "Farsight patch\n\n- Version 2.1.38.\n- Keeps attack slots gated only by the player guard.\n- Makes attack mode per character profile.\n- Raises SpecForce to +10 and makes its range overlay temporary.\n- Adds rune items to auto-combine.",
   "notes_url": ""
 }
