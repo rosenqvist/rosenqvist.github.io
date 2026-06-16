@@ -1,10 +1,10 @@
 {
-  "version": "2.1.36",
-  "display_name": "Farsight 2.1.36",
-  "url": "https://rosenqvist.github.io/farsight/v2.1.36/Farsight.exe",
-  "sha256": "87b76a93aa52349ff1218efadc9df37b1a8cdda82e53c67b6fb79443b01f8fd0",
-  "overlay_url": "https://rosenqvist.github.io/farsight/v2.1.36/FarsightWydOverlay32.dll",
-  "overlay_sha256": "b4864254bc2d1be3036fa5178df63b8e90eb43dc14fb16eeaff2b6119c874e4f",
-  "notes": "Farsight patch\n\n- Version 2.1.36.\n- Restores the minimized in-game chat when Enter is pressed.\n- Keeps Enter available for native in-game modal and context windows.",
+  "version": "2.1.37",
+  "display_name": "Farsight 2.1.37",
+  "url": "https://rosenqvist.github.io/farsight/v2.1.37/Farsight.exe",
+  "sha256": "752f5baebca8dfdde7a0f3ee55040ed42dbc9f684510acd42c00d38de84e7b59",
+  "overlay_url": "https://rosenqvist.github.io/farsight/v2.1.37/FarsightWydOverlay32.dll",
+  "overlay_sha256": "4ffdfa1aa81532c9f9d8e6a4c74fb4fb079878bb86c714f17b86049912c284cc",
+  "notes": "Farsight patch\n\n- Version 2.1.37.\n- Restores the minimized in-game chat when Enter is pressed.\n- Keeps Enter available for native in-game modal and context windows.",
   "notes_url": ""
 }
