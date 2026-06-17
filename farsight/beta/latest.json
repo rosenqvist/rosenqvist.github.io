@@ -1,10 +1,10 @@
 {
-  "version": "2.1.38",
-  "display_name": "Farsight 2.1.38",
-  "url": "https://rosenqvist.github.io/farsight/v2.1.38/Farsight.exe",
-  "sha256": "9b8e0afe24b1df9fe11e86bec087b6fde327a0b2962e6a38e7f0903bc8584858",
-  "overlay_url": "https://rosenqvist.github.io/farsight/v2.1.38/FarsightWydOverlay32.dll",
-  "overlay_sha256": "9faa334bdfe4685a86ed4f4b776b26a00545bbc3cf1001fab76ea81adffb605e",
-  "notes": "Farsight patch\n\n- Version 2.1.38.\n- Keeps attack slots gated only by the player guard.\n- Makes attack mode per character profile.\n- Raises SpecForce to +10 and makes its range overlay temporary.\n- Adds rune items to auto-combine.",
+  "version": "2.1.39",
+  "display_name": "Farsight 2.1.39",
+  "url": "https://rosenqvist.github.io/farsight/v2.1.39/Farsight.exe",
+  "sha256": "5cb16ab283204ed72afe83d66a1e99e63b295f1e6452455f8de38a4049b020f1",
+  "overlay_url": "https://rosenqvist.github.io/farsight/v2.1.39/FarsightWydOverlay32.dll",
+  "overlay_sha256": "225c95dd06036a76e1637e22dde57781b7d867687c4be6cb65a61dcb32635eee",
+  "notes": "Farsight patch\n\n- Version 2.1.39.\n- Keeps Closest Mob First as target ordering only.\n- Caps SpecForce at +8.\n- Keeps attack mode and Closest Mob First per character profile.",
   "notes_url": ""
 }
