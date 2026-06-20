@@ -1,6 +1,6 @@
 {
   "version": "0.1.1",
-  "url": "https://rosenqvist.github.io/wyd-client-manager/wyd-client-manager-0.1.1.zip",
+  "url": "https://raw.githubusercontent.com/rosenqvist/rosenqvist.github.io/main/wyd-client-manager/wyd-client-manager-0.1.1.zip",
   "sha256": "f98ca729b7f8a29dee6d6b1bcc9e43376234431b6d0942dce5ab070580627f3a",
   "display_name": "WYD Client Manager 0.1.1",
   "notes": "Add signed license activation and gated client management."
