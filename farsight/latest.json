@@ -1,10 +1,10 @@
 {
-  "version": "2.1.40",
-  "display_name": "Farsight 2.1.40",
-  "url": "https://rosenqvist.github.io/farsight/v2.1.40/Farsight.exe",
-  "sha256": "27e7a5ffea9d055c1a977ed9db079008557fe4b57ab28f15ad44165380d3b0db",
-  "overlay_url": "https://rosenqvist.github.io/farsight/v2.1.40/FarsightWydOverlay32.dll",
-  "overlay_sha256": "225c95dd06036a76e1637e22dde57781b7d867687c4be6cb65a61dcb32635eee",
-  "notes": "Farsight patch\n\n- Version 2.1.40.\n- Makes Effects off a startup/login option instead of a live forced override.\n- Keeps in-game user effect changes untouched after startup.\n- Keeps SpecForce capped at +8.",
+  "version": "2.1.41",
+  "display_name": "Farsight 2.1.41",
+  "url": "https://rosenqvist.github.io/farsight/v2.1.41/Farsight.exe",
+  "sha256": "370c16f68625bb4bfe99e1b565f81a9ae18a3ec54bd13cd354056594520337cb",
+  "overlay_url": "https://rosenqvist.github.io/farsight/v2.1.41/FarsightWydOverlay32.dll",
+  "overlay_sha256": "3c80d441ef1f49f5925c7ba9a5a53d7e7bd7364d611168154b815487ed239d5b",
+  "notes": "Farsight 2.1.41\n\n- Fixes chat auto-scroll across chat views and private-message tabs.\n- Removes return/chase/hold movement modes.",
   "notes_url": ""
 }
